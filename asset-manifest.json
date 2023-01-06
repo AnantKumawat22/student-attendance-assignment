@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/student-attendance-assignment/static/css/main.daafa501.css",
+    "main.js": "/student-attendance-assignment/static/js/main.de1d6af2.js",
+    "index.html": "/student-attendance-assignment/index.html",
+    "main.daafa501.css.map": "/student-attendance-assignment/static/css/main.daafa501.css.map",
+    "main.de1d6af2.js.map": "/student-attendance-assignment/static/js/main.de1d6af2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daafa501.css",
+    "static/js/main.de1d6af2.js"
+  ]
+}
